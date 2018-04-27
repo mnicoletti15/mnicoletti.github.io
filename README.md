@@ -1,2 +1,1 @@
-# mnicoletti.github.io
-My website
+Website on Berkeley Housing Crisis.
